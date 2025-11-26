@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+streamlit
+sentence-transformers
+torch
+transformers
+langdetect
+nltk
+requests
+python-multipart
+pydantic
